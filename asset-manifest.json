@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.e07bb319.css",
+    "main.js": "/Portfolio/static/js/main.f93050fe.js",
+    "static/js/787.dbbd0357.chunk.js": "/Portfolio/static/js/787.dbbd0357.chunk.js",
+    "static/media/1.webp": "/Portfolio/static/media/1.e762c213d65ce25914be.webp",
+    "static/media/portfolio-6.jpg": "/Portfolio/static/media/portfolio-6.625ba1524788c5255d3e.jpg",
+    "static/media/portfolio-3.jpg": "/Portfolio/static/media/portfolio-3.a81b7e4b09f189083705.jpg",
+    "static/media/portfolio-5.jpg": "/Portfolio/static/media/portfolio-5.e55cc11c781741b6c71d.jpg",
+    "static/media/portfolio-8.jpg": "/Portfolio/static/media/portfolio-8.3deb7f624f8fc4bb88cf.jpg",
+    "static/media/testimonials-2.jpg": "/Portfolio/static/media/testimonials-2.4b41e5c09698f7f4f9f9.jpg",
+    "static/media/portfolio-4.jpg": "/Portfolio/static/media/portfolio-4.147f73490ad96d686d90.jpg",
+    "static/media/profile1.webp": "/Portfolio/static/media/profile1.76c329cb352549541720.webp",
+    "static/media/portfolio-7.jpg": "/Portfolio/static/media/portfolio-7.c6dfa47d310390a3d3f9.jpg",
+    "static/media/testimonials-1.jpg": "/Portfolio/static/media/testimonials-1.54f2a70e2804cdf6f09d.jpg",
+    "static/media/portfolio-2.jpg": "/Portfolio/static/media/portfolio-2.a305f9fb63b12fb87304.jpg",
+    "static/media/portfolio-1.jpg": "/Portfolio/static/media/portfolio-1.64debbd581a5408db594.jpg",
+    "static/media/portfolio-9.jpg": "/Portfolio/static/media/portfolio-9.d0b507890fc26e533ee0.jpg",
+    "static/media/testimonials-5.jpg": "/Portfolio/static/media/testimonials-5.8732aa377888dc5873fb.jpg",
+    "static/media/testimonials-4.jpg": "/Portfolio/static/media/testimonials-4.58081dc8c31bc0e1cb6c.jpg",
+    "static/media/testimonials-3.jpg": "/Portfolio/static/media/testimonials-3.bec51ce16f238c7ec7b1.jpg",
+    "static/media/contact.php": "/Portfolio/static/media/contact.466e1b230794d792d9bc.php",
+    "index.html": "/Portfolio/index.html",
+    "main.e07bb319.css.map": "/Portfolio/static/css/main.e07bb319.css.map",
+    "main.f93050fe.js.map": "/Portfolio/static/js/main.f93050fe.js.map",
+    "787.dbbd0357.chunk.js.map": "/Portfolio/static/js/787.dbbd0357.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e07bb319.css",
+    "static/js/main.f93050fe.js"
+  ]
+}
