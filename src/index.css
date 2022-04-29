@@ -9,7 +9,7 @@ body {
   position: relative;
   background: transparent;
 }
-body::before {
+body::after {
   content: "";
   position: fixed;
   background: #0d0d0d url("./img/1.webp") top right no-repeat;
